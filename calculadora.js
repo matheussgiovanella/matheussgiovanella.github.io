@@ -1,5 +1,5 @@
 function numClicked(val) {
-    console.log(val)
+    
     document.querySelector('.output').value += val;
 }
 
